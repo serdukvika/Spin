@@ -1,0 +1,15 @@
+body {
+  background-image: url(images/Sirius\ Tamed.jpg);
+}
+#canvas {
+  float: right;
+}
+.text {
+  margin-top: 100px;
+}
+#spin {
+  margin-top: 50px;
+}
+/* .butt {
+  margin: -200px 0 0 890px;
+}  */
